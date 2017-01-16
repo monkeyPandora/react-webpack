@@ -1,0 +1,11 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "react by webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "text"
+  },
+  "author": "lee",
+  "license": "ISC"
+}
